@@ -1,2 +1,3 @@
 # bash-commands
-Repository untuk latihan Git Bash commands
+
+Simple repository for documenting my Git Bash commands learning process
