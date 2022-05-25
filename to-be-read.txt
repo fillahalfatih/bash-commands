@@ -6,3 +6,4 @@ Categories: Non-fiction
 - Deep Work | Cal Newport
 - Ikigai | Hector Garcia, Francesc Miralles
 - Smarter Faster Better | Charles Duhigg
+- You Do You | Fellexandro Ruby
